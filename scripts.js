@@ -61,7 +61,7 @@ $(document).ready(function () {
       loop: true
     });
     var typed = new Typed(".typing-3", {
-        strings: ["Connect with me on :)", "Created by @Shanmukh"],
+        strings: ["Connect with me on :)", "Created by @Sabitha Annarapu"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
